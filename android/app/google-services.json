@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "837325732700",
+    "project_id": "attend-sys-e1fee",
+    "storage_bucket": "attend-sys-e1fee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837325732700:android:e5f993623a5a9eeb001f99",
+        "android_client_info": {
+          "package_name": "com.example.attend_sys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHm812x50pHv4AqxjoPvPR2ZVU3tumphQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837325732700:android:2fd56ff538e6b933001f99",
+        "android_client_info": {
+          "package_name": "com.example.attend_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHm812x50pHv4AqxjoPvPR2ZVU3tumphQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
